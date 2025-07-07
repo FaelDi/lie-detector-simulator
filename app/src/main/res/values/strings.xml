@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lie Detector Simulator</string>
+    <string name="start_scan">Start Scan</string>
+    <string name="truth">Truth</string>
+    <string name="lie">Lie</string>
+    <string name="scanning">Scanning...</string>
+</resources>
